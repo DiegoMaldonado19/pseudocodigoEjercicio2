@@ -1,0 +1,7 @@
+Algoritmo algoritmo2
+	Escribir "Ingrese un numero";
+	Leer num;
+	Para i=0 Hasta num-1 Con Paso 1 Hacer
+		Escribir num-i;
+	Fin Para
+FinAlgoritmo
